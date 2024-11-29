@@ -1,9 +1,7 @@
 prenom1 = input("Entrez le prénom de la première personne : ")
 nom1 = input("Entrez le nom de la première personne : ")
-
 prenom2 = input("Entrez le prénom de la deuxième personne : ")
 nom2 = input("Entrez le nom de la deuxième personne : ")
-
 
 prenom1 = prenom1.capitalize()
 nom1 = nom1.upper()
